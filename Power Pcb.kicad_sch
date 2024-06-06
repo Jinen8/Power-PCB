@@ -1,0 +1,53 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "a4ff6fce-538e-4dc3-b65a-c825f7e52b6f")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 158.75 181.61)
+		(size 101.6 64.77)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "17cefe33-1019-41c0-b394-f7bf4079f83f")
+		(property "Sheetname" "Block diagram"
+			(at 158.75 180.8984 0)
+			(effects
+				(font
+					(face "Calibri")
+					(size 1.27 1.27)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 158.75 246.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Power Pcb"
+				(path "/a4ff6fce-538e-4dc3-b65a-c825f7e52b6f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
